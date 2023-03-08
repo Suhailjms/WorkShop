@@ -1,0 +1,52 @@
+.ticket-booking-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .form-input {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    width: 300px;
+  }
+ * {font-weight: bold;}
+  
+  .form-select {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .form-button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #e0bb04;
+  }
+  .form-button:hover{
+    background-color: #04e067;
+  }
+
+
+  *{
+     /* background-image: url(pic1.jpg); */
+     /* height:;
+     width: auto; */
+     background-repeat: no-repeat;
+     /* image-resolution: ; */
+  }  
+  img{
+    height: 1000px;
+    width : 2000px;
+  }
+  body{
+    background-image: url(pic1.png);
+    background-size: cover;
+  }
+  form{
+    display: inline;
+  }
